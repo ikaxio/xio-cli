@@ -1,0 +1,17 @@
+{
+  "name": "xio-cli",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.0.27"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xio": "npx ts-node ./bin/xio.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
